@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tyler-oliver-02b66b261/)
 
 <!--
 **toliver13/toliver13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
