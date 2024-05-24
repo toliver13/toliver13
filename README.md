@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there, I'm Tyler
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tyler-oliver-02b66b261/)
 
 <!--
