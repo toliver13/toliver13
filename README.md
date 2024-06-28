@@ -11,7 +11,7 @@ Hazel Green. I have a passion for cybersecurity, and I plan to use this platform
 
 <h3>I have been working my way to the top in TryHackMe! :chart_with_upwards_trend:<h3></h3>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/60m6y.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/toliver.png" alt="TryHackMe">
 
  <h2>Current Certifications:<h2></h2>
   
